@@ -3092,3 +3092,50 @@ Configuration file: /workspaces/comweb/site-src/_config.yml
 
 
 
+
+Done updating Comport (XStack) ()
+
+
+
+Local Changes detected!
+
+
+Update found
+
+
+git pull output:
+From https://github.com/osterhoutan-UofU/comweb
+ = [up to date]      master        -> origin/master
+ = [up to date]      less-bib-beta -> origin/less-bib-beta
+Already up to date.
+
+
+
+
+Updating Comport (XStack) ()
+
+update.py output:
+Reading: /workspaces/comweb/site-content/education.bib
+Reading: /workspaces/comweb/site-content/software.bib
+Reading: /workspaces/comweb/site-content/people.bib
+Reading: /workspaces/comweb/site-content/pubs.bib
+
+
+
+updating blog output:
+'/workspaces/comweb/site-content/test/2021-01-16-test-title.md' -> '/workspaces/comweb/site-src/_posts/2021-01-16-test-title.md'
+
+
+
+bundle exec jekyll build output:
+Configuration file: /workspaces/comweb/site-src/_config.yml
+            Source: /workspaces/comweb/site-src
+       Destination: /workspaces/comweb/docs
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 1.656 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+
+
+

@@ -14,7 +14,7 @@ permalink: index.html
 ---
 
 <center>
-    <img src="https://nsf.gov/images/logos/NSF_4-Color_vector_Logo.ai"><img src="https://nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png">NSF logo</img></img>
+    <img src="https://nsf.gov/images/logos/NSF_4-Color_vector_Logo.ai" width="50%"><img src="https://nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="50%">NSF logo</img></img>
 </center>
 
 NSF CISE Award: Collaborative Research: SHF: Medium: Practical and Rigorous Correctness Checking and Correctness Preservation for Irregular Parallel Programs

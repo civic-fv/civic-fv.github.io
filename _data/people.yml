@@ -34,6 +34,17 @@
 # #         facebook  : ${url to specific page or profile} # not sure why you would include this one but you could.
 
 
+martin:
+    name      : Martin Burtscher
+    email     : burtscher@txstate.edu
+    links     :
+        website     : https://cs.txstate.edu/~burtscher/
+        github      : burtscher
+    position  : Site-PI
+    title     : Professor
+    abstract  : Faculty at Texas State, Site-PI of Collaborative Grant "CIVIC"
+
+
 ganesh:
     name      : Ganesh Gopalakrishnan
     email     : ganesh@cs.utah.edu
@@ -71,13 +82,4 @@ tanmay_tirpankar:
     abstract  : |
                   Resident expert at messing around with systems stuff. Affected by a curious bug of tinkering with what should not be tinkered. My research interest lies in verification of concurrent programs and floating point error analysis. _Please reach out if you need help with anything or have anything work/non-work related stuff to discuss_                  
 
-martin:
-    name      : Martin Burtscher
-    email     : burtscher@txstate.edu
-    links     :
-        website     : https://cs.txstate.edu/~burtscher/
-        github      : burtscher
-    position  : Site-PI
-    title     : Professor
-    abstract  : Faculty at Texas State, Site-PI of Collaborative Grant "CIVIC"
  

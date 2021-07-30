@@ -8,7 +8,7 @@
 
 # << ========================== Required Section =========================== >> 
 # this is displayed on the page header of every page & in the page metadata.
-title: "" #              "CIVIC" # ${ProjName}
+title: "civic" #              "CIVIC" # ${ProjName}
 # this is displayed on the about page
 bio:                '...born of a sense of civic duty toward making the parallel
  programming of Irregular Parallel Programs more correct and reliable'

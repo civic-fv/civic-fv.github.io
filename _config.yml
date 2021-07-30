@@ -12,7 +12,7 @@ title: "civic" #              "CIVIC" # ${ProjName}
 # this is displayed on the about page
 bio:                ...born of a sense of civic duty toward making the parallel programming of Irregular Parallel Programs more correct and reliable
 # this is displayed on the about page & in the page metadata
-# description:        "This is a research page for publications and software created under the CIVIC project"
+description:        "This is a research page for publications and software created under the CIVIC project"
 # The location & language information for the site (part of the site metadata)
 locale:             en_US
 

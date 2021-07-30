@@ -1,4 +1,4 @@
-   Welcome to the ${ProjName} Website!!
+   Welcome to the CIVIC project Website!!
 ==========================================
 This is a website system system that utilizes jekyll 
  to build a static website from provided data.

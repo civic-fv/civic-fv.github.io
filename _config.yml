@@ -10,7 +10,7 @@
 # this is displayed on the page header of every page & in the page metadata.
 title:              "CIVIC" # ${ProjName}
 # this is displayed on the about page
-bio:                '...born of a _civic duty_ of making the parallel
+bio:                '...born of a sense of _civic duty_ toward making the parallel
  programming of Irregular Parallel Programs more correct and reliable'
 # this is displayed on the about page & in the page metadata
 description:        "This is a research page for publications and software created under the CIVIC project"

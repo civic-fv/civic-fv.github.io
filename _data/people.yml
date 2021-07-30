@@ -46,3 +46,14 @@ ganesh:
     pfp       : http://static1.squarespace.com/static/54c85166e4b03a5492fe6e90/t/5fca828c5bd8fe559a71b0e0/1607107218301/Rob+Salmeron+Headshot.jpeg
     abstract  : Faculty at Utah, PI of Collaborative Grant "CIVIC"
                   
+ johnjacobson:
+     name      : John Jacobson
+     position  : PhD Student
+      pfp       : https://lh6.googleusercontent.com/1GI_vUCzW7NaD6Sk8P8hsFTsbKo_GwpcdpWL5XVQnAy6QhXMuAHA12r4Ix08KX2b6ufHB_dyL63ZFTAbmz0XwIxGQitQsdQGopCQxTP3W9wLUCDBy2E_CAOa6m4Scttc_Q=w1280
+      pronouns  : he/him
+      degree    : (2013) BS Mathematics (Arizona State University), (Expected 2025) PhD Computer Science
+      abstract  : PhD Student at University of Utah, under advisement of Prof. Ganesh Gopalakrishnan. Interest in formal methods for concurrent programs, and any applications of theoretical mathematics to computing.
+      links     :
+          github    : JohnJacobsonIII
+          website   : https://www.johniii.org
+          twitter   : johniii_soc

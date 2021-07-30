@@ -13,24 +13,51 @@ layout: info-post
 permalink: people/:basename
 ---
 
-### Test Title
+<!-- Comments for MD are like this -->
 
-test content
+Bio as of 12/10/2020:
 
-this allows for limited multimedia support, and you will need to either know how to use jekyll or link it with absolute URI from an external source to get it to work.
-The later is recommended for most people. 
+Ganesh L. Gopalakrishnan (Senior Member of IEEE and ACM Distinguished
+Scientist) earned his B.Sc.(EE) degree from NIT Calicut in 1978,
+M.Tech (EE) from IIT Kanpur in 1980, and PhD in Computer Science from
+Stony Brook University in 1986, when he joined the University of Utah.
 
-gobldey gook
+His research interests are in correctness methods for shared memory
+and message passing programming, and education methods in parallel and
+concurrent programming, as well as in computer science foundations,
+with an emphasis on formal methods.
 
-test image w/ jekyll liquid comments (image is in the `/site-src/images` directory already)
+His currently active projects are: Verification Methods and Tool
+Frameworks for parallel and concurrent systems (NSF), Floating-point
+Precision Tuning Methods (NSF), Methods to detect Compiler-Induced
+Numerical Variability in scientific codes (Lawrence Livermore National
+Laboratory), Methods to enhance System Resilience (DOE), Scalable
+OpenMP Data Race Checking methods, and Symbolic Data Race Checking
+Methods for GPUs.  His research grants and contracts are from NSF,
+DOE, and lab subcontracts.
 
-![test-image]({{ "/images/DecidabilityDiagram.png" | absolute_url }})
+His external engagements include Visiting Assistant Professorship at
+the University of Calgary (1988-89) and sabbatical visits at Stanford
+University (1995-96), Intel (2002-03), and sabbatical projects with
+Microsoft on developing parallel computing curriculum (2009-10), and
+work on textbooks using Jupyter notebooks in undergraduate Discrete
+Math and Automata Theory classes (2016-17).
 
+He has published two textbooks: (1) Computation Engineering: Applied
+Automata Theory and Logic, Springer, 2006. (2) Automata and
+Computability: A Programmer's Perspective, CRC Press, 2019. He has
+published over 180 refereed papers, and has graduated 22 PhD students,
+and mentored 44 Undergraduate Researchers to date.
 
-test image w/ external media:
+He is serving as the Director of the Center for Parallel Computing at
+Utah ("CPU").  He was awarded one of the six "Beacons of Excellence"
+Awards for 2012 by the University of Utah for his work on mentoring
+undergraduates.
 
-![Test-Image-2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXqq3j05ykEU69GBIwyuuuiFhePdmiIIk3zMJ6gfim7Sv3yaJ0v86GjGf4_W9P-BqgHjA&usqp=CAU)
-
-
-that is all for now
-
+His PhD students have received these honors: 2020 Best Student Paper
+in Supercomputing 2020 (PhD student Arnab Das); 2020 Test of Time
+Honorable Mention in Foundations of Software Engineering 2020 (PhD
+student Guodong Li for his paper in 2010); 2020 Nvidia Graduate
+Fellowship (PhD student Vinu Joseph); and Lawrence Livermore National
+Laboratory Director's 2020 Excellence in Publication (Student Category
+Winner, Ph.D. Student: Michael Bentley).

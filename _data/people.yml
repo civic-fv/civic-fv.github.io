@@ -34,17 +34,28 @@
 # #         facebook  : ${url to specific page or profile} # not sure why you would include this one but you could.
 
 
+martin:
+    name      : Martin Burtscher
+    email     : burtscher@txstate.edu
+    links     :
+        website     : https://cs.txstate.edu/~burtscher/
+        github      : burtscher
+    position  : Site-PI
+    title     : Professor
+    abstract  : Faculty at Texas State, Site-PI of Collaborative Grant "CIVIC"
+
+
 ganesh:
     name      : Ganesh Gopalakrishnan
     email     : ganesh@cs.utah.edu
     links     :
         website     : https://www.cs.utah.edu/~ganesh  # URL your personal webpage and/or portfolio
         github      : ganeshutah
-    position  : Principal Investigator (Lead Institution)
+    position  : Site-PI
     title     : Professor
     pronouns  : he/him
     pfp       : # http://static1.squarespace.com/static/54c85166e4b03a5492fe6e90/t/5fca828c5bd8fe559a71b0e0/1607107218301/Rob+Salmeron+Headshot.jpeg
-    abstract  : Faculty at Utah, PI of Collaborative Grant "CIVIC"
+    abstract  : Faculty at Utah, Site-PI of Collaborative Grant "CIVIC"
  
 johnjacobson:
     name      : John Jacobson
@@ -70,3 +81,5 @@ tanmay_tirpankar:
     pfp       : https://media-exp1.licdn.com/dms/image/C5103AQGUGo6hiPywBg/profile-displayphoto-shrink_800_800/0/1580487248461?e=1631750400&v=beta&t=KM_e2RSqyHUdt_MJ_BrIMpYLQSmfAH5a_xZuoWnnIiY
     abstract  : |
                   Resident expert at messing around with systems stuff. Affected by a curious bug of tinkering with what should not be tinkered. My research interest lies in verification of concurrent programs and floating point error analysis. _Please reach out if you need help with anything or have anything work/non-work related stuff to discuss_                  
+
+ 

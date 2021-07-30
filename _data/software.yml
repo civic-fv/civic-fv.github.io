@@ -15,10 +15,11 @@
 
 
 
-Dendro4:
-  title: The Dendro Software System
-  author: Hari Sundar
-  url: https://paralab.github.io/Dendro4/
+
+CIVIC:
+  title: The CIVL Software System
+  author: Stephen F. Siegel
+  url: https://vsl.cis.udel.edu/civl/index.html
   repo:             ... # URL to other repo for the software
   links: 
     docs:             ... # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
@@ -32,17 +33,17 @@ Dendro4:
     instagram:        ... # instagram profile name (if you add this you're a bad person)
     facebook:         ... # facebook page name (if you add this you're old
   licence: MIT
-  abstract: The Dendro Software System
+  abstract: Concurrency Intermediate Verification Language
 
 
 
-uintah:
-  title: The Uintah Software
-  author: Alan Humphrey and Martin Berzins
-  url: http://uintah.utah.edu/
-  repo:             https://github.com/some-user/some-repo # URL to other repo for the software
-  icon: https://cdn.vox-cdn.com/thumbor/6C5Yi14bAf7iRHvCEWK9xlL5TYM=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/64978846/3b17607095.0.jpeg
-  image: https://www.autoitscript.com/autoit3/docs/images/SampleGuiScreenshot.png
+sword:
+  title: Sword
+  author: Simone Atzeni et al.
+  url: pruners.github.io
+  repo:  pruners.github.io
+#  icon: https://cdn.vox-cdn.com/thumbor/6C5Yi14bAf7iRHvCEWK9xlL5TYM=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/64978846/3b17607095.0.jpeg
+#  image: https://www.autoitscript.com/autoit3/docs/images/SampleGuiScreenshot.png
   links: 
     docs:             ... # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
     email:            ... # primary contact email address for entire proj
@@ -57,8 +58,7 @@ uintah:
   licence: MIT
   licence_url: ... # url to official licence page or file.
   # crossref={mb,ahumphre},
-  abstract: Uintah problem solving environment
-
+  abstract: The Sword Race Checker
 
 
 archer:
@@ -67,19 +67,6 @@ archer:
   url: https://github.com/PRUNERS/archer
   # crossref={simone,archer,pruners},
   abstract: Archer combines static and dynamic techniques to identify data races in large OpenMP applications.},
- 
 
-ds2:
-  title: 'DS2: Distributed Systems Domain Specific Language'
-  author: Mohammad Al Mahfoudh, Heath French, Anushree Singh, Zepeng Zhao
-  url: http://formalverification.cs.utah.edu/Gauss/Pages/ds2/
-  # crossref={mahfoudh,ds2},
-  abstract: DS2 provides practitioners with verification infrastructure and tools aiding them build systems faster and with more correctness guarantees.
 
-flit:
-  title: 'FLiT: Floating-Point Litmus Tester - reproducibility testing framework'
-  author: Michael Bentley, Geof Sawaya, Ian Briggs
-  url: https://github.com/PRUNERS/FLiT
-  # crossref={flit, bentley},
-  abstract: FLiT is a reproducibility testing framework for floating-point algorithms under different compilers and optimizations
 

@@ -12,7 +12,7 @@ title:              "CIVIC" # ${ProjName}
 # this is displayed on the about page
 bio:                'Concurrency Intermediate Verification Languages for Irregular Parallel Programs'
 # this is displayed on the about page & in the page metadata
-description:        "This is a research page for publications and software created under the VIC project"
+description:        "This is a research page for publications and software created under the CIVIC project"
 # The location & language information for the site (part of the site metadata)
 locale:             en_US
 

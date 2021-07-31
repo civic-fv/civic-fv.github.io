@@ -17,12 +17,14 @@ permalink: index.html
     <img src="https://nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="50%" alt="NSF logo"/>
 </center>
 
-NSF CISE Award: Collaborative Research: SHF: Medium: Practical and Rigorous Correctness Checking and Correctness Preservation for Irregular Parallel Programs
 
-Collaborating institutions: 
+Collaborating institutions:
 
-Texas State University (PI: Prof. Martin Burtscher); 
-University of Delaware (PI: Prof. Stephen F. Siegel)
-University of Utah (Lead; PI: Prof. Ganesh L. Gopalakrishnan)
+* NSF 1955367, Texas State University (PI: Prof. Martin Burtscher)
 
-Period of Performance: 8/20 - 7/23
+* NSF 1955852, University of Delaware (PI: Prof. Stephen F. Siegel)
+
+* NSF 1956106, University of Utah (PI: Prof. Ganesh Gopalakrishnan)
+
+
+

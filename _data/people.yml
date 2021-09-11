@@ -95,11 +95,11 @@ tanmay_tirpankar:
     abstract  : |
                   Resident expert at messing around with systems stuff. Affected by a curious bug of tinkering with what should not be tinkered. My research interest lies in verification of concurrent programs and floating point error analysis. _Please reach out if you need help with anything or have anything work/non-work related stuff to discuss_                  
 
- yiqianl:
-    name    : Yiqian Liu
-    email   : y_l120@txstate.edu
-    links   :
+yiqianl:
+    name      : Yiqian Liu
+    email     : y_l@txstate.edu
+    links     :
         website     : https://userweb.cs.txstate.edu/~y_l120/
         github      : yiqianl
-    position    : PhD Student
-    abstract    : PhD Student at Texas State University, under advisement of Prof. Martin Burtscher. My research focuses on the parallelization of irregular programs for GPUs.
+    position  : PhD Student
+    abstract  : PhD Student at Texas State University, under advisement of Prof. Martin Burtscher. My research focuses on the parallelization of irregular programs for GPUs.

@@ -108,7 +108,8 @@ yiqianl:
 osterhoutan:
     name      : Andrew Osterhout
     email     : andrew.osterhout@utah.edu
-    pfp       : https://imgur.com/a/XxptnF4
+    # pfp       : https://imgur.com/a/XxptnF4
+    pfp       : /images/osterhoutan.jpg
     links     :
         website     : https://osterhoutan.dev   # URL your personal webpage and/or portfolio
         github      : osterhoutan-UofU   # github username

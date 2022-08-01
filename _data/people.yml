@@ -108,6 +108,7 @@ yiqianl:
 osterhoutan:
     name      : Andrew Osterhout
     email     : andrew.osterhout@utah.edu
+    pfp       : https://imgur.com/a/XxptnF4
     links     :
         website     : https://osterhoutan.dev   # URL your personal webpage and/or portfolio
         github      : osterhoutan-UofU   # github username
@@ -116,5 +117,5 @@ osterhoutan:
     pronouns  : he/they
     # pfp       : https://media-exp1.licdn.com/dms/image/C5103AQGUGo6hiPywBg/profile-displayphoto-shrink_800_800/0/1580487248461?e=1631750400&v=beta&t=KM_e2RSqyHUdt_MJ_BrIMpYLQSmfAH5a_xZuoWnnIiY
     abstract  : |
-                    I do alot of things here, on a lot of projects.  Primary work ahs been with the Random Walker & Random State Exclusion Murphi Model Checker "romp".
+                    I do alot of things here, on a lot of projects.  Primary work ahs been with the romp Random Walker & Random State Exclusion Murphi Model Checker "romp".
           

@@ -69,4 +69,9 @@ archer:
   abstract: Archer combines static and dynamic techniques to identify data races in large OpenMP applications.},
 
 
+romp:
+  title: 'romp: a random walking parallel model checker'
+  author: Andrew Osterhout
+  url: https://github.com/civiv-fv/romp
+  abstract: 'a random walking parallel model checker for the Murφ (murphi) model checking langauge, bassed off of rumur's langauge parsing library and optimised for fast datat race free multithreaded random walking'
 

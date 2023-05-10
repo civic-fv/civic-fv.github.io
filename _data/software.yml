@@ -65,6 +65,20 @@ archer:
   title: 'Archer: Data race detector for OpenMP programs'
   author: Simone Atzeni
   url: https://github.com/PRUNERS/archer
+  repo: https://github.com/PRUNERS/archer
+  links: 
+    docs:             false # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
+    email:            false # primary contact email address for entire proj
+    website:          false # URL to a separate website for the proj (maybe official university page, etc.)
+    reddit:           false # sub-reddit name (prepend "r/" for sub-reddit or "u/" for a user)
+    forum:            false # URL to a help forum (i.e. repo issues page or an actual forum)
+    youtube:          false # youtube channel URL
+    vimeo:            false # vimeo channel name (who even are you?)
+    twitter:          false # twitter handle (if you add this you're probably annoying)
+    instagram:        false # instagram profile name (if you add this you're a bad person)
+    facebook:         false # facebook page name (if you add this you're old
+  licence: MIT
+  licence_url: ... # url to official licence page or file.
   # crossref={simone,archer,pruners},
   abstract: Archer combines static and dynamic techniques to identify data races in large OpenMP applications.
 
@@ -74,5 +88,18 @@ romp:
   author: Andrew Osterhout et al
   url: https://github.com/civiv-fv/romp
   repo: https://github.com/civiv-fv/romp
+  links: 
+    docs:             false # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
+    email:            false # primary contact email address for entire proj
+    website:          false # URL to a separate website for the proj (maybe official university page, etc.)
+    reddit:           false # sub-reddit name (prepend "r/" for sub-reddit or "u/" for a user)
+    forum:            false # URL to a help forum (i.e. repo issues page or an actual forum)
+    youtube:          false # youtube channel URL
+    vimeo:            false # vimeo channel name (who even are you?)
+    twitter:          false # twitter handle (if you add this you're probably annoying)
+    instagram:        false # instagram profile name (if you add this you're a bad person)
+    facebook:         false # facebook page name (if you add this you're old
+  licence: The Unlisence
+  licence_url: https://github.com/civic-fv/romp/blob/b88e0cedbabfcaf7b156f6fde4f4b4ee0b5672c8/LICENSE # url to official licence page or file.
   abstract: 'a random walking parallel model checker for the murphi model checking langauge, bassed off of rumur's langauge parsing library and optimised for fast datat race free multithreaded random walking'
 

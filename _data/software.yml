@@ -40,12 +40,12 @@ CIVIC:
 sword:
   title: Sword
   author: Simone Atzeni et al.
-  url: pruners.github.io
-  repo:  pruners.github.io
-#  icon: https://cdn.vox-cdn.com/thumbor/6C5Yi14bAf7iRHvCEWK9xlL5TYM=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/64978846/3b17607095.0.jpeg
-#  image: https://www.autoitscript.com/autoit3/docs/images/SampleGuiScreenshot.png
+  url: https://github.com/PRUNERS/sword
+  repo: https://github.com/PRUNERS/sword
+  # icon: https://cdn.vox-cdn.com/thumbor/6C5Yi14bAf7iRHvCEWK9xlL5TYM=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/64978846/3b17607095.0.jpeg
+  # image: https://www.autoitscript.com/autoit3/docs/images/SampleGuiScreenshot.png
   links: 
-    docs:             false # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
+    docs:             https://github.com/PRUNERS/sword/blob/7a08f3c121aed3a0cd76c75b943a06407705b0e8/README.org # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
     email:            false # primary contact email address for entire proj
     website:          false # URL to a separate website for the proj (maybe official university page, etc.)
     reddit:           false # sub-reddit name (prepend "r/" for sub-reddit or "u/" for a user)
@@ -55,8 +55,8 @@ sword:
     twitter:          false # twitter handle (if you add this you're probably annoying)
     instagram:        false # instagram profile name (if you add this you're a bad person)
     facebook:         false # facebook page name (if you add this you're old
-  licence: MIT
-  licence_url: ... # url to official licence page or file.
+  licence: LLNL
+  licence_url: https://github.com/PRUNERS/sword/blob/7a08f3c121aed3a0cd76c75b943a06407705b0e8/LICENSE
   # crossref={mb,ahumphre},
   abstract: The Sword Race Checker
 
@@ -67,7 +67,7 @@ archer:
   url: https://github.com/PRUNERS/archer
   repo: https://github.com/PRUNERS/archer
   links: 
-    docs:             false # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
+    docs:             https://github.com/PRUNERS/archer/blob/5b37681fddd4e9426c1443d55bf4336823c6611d/README.org # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
     email:            false # primary contact email address for entire proj
     website:          false # URL to a separate website for the proj (maybe official university page, etc.)
     reddit:           false # sub-reddit name (prepend "r/" for sub-reddit or "u/" for a user)
@@ -77,8 +77,8 @@ archer:
     twitter:          false # twitter handle (if you add this you're probably annoying)
     instagram:        false # instagram profile name (if you add this you're a bad person)
     facebook:         false # facebook page name (if you add this you're old
-  licence: MIT
-  licence_url: ... # url to official licence page or file.
+  licence: Apache 2.0
+  licence_url: https://github.com/PRUNERS/archer/blob/5b37681fddd4e9426c1443d55bf4336823c6611d/LICENSE
   # crossref={simone,archer,pruners},
   abstract: Archer combines static and dynamic techniques to identify data races in large OpenMP applications.
 
@@ -100,6 +100,6 @@ romp:
     instagram:        false # instagram profile name (if you add this you're a bad person)
     facebook:         false # facebook page name (if you add this you're old
   licence: The Unlisence
-  licence_url: https://github.com/civic-fv/romp/blob/b88e0cedbabfcaf7b156f6fde4f4b4ee0b5672c8/LICENSE # url to official licence page or file.
+  licence_url: https://github.com/civic-fv/romp/blob/b88e0cedbabfcaf7b156f6fde4f4b4ee0b5672c8/LICENSE
   abstract: 'a random walking parallel model checker for the murphi model checking langauge, bassed off of rumur's langauge parsing library and optimised for fast datat race free multithreaded random walking'
 

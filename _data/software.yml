@@ -74,5 +74,5 @@ romp:
   author: Andrew Osterhout et al
   url: https://github.com/civiv-fv/romp
   repo: https://github.com/civiv-fv/romp
-  abstract: 'a random walking parallel model checker for the Murφ (murphi) model checking langauge, bassed off of rumur's langauge parsing library and optimised for fast datat race free multithreaded random walking'
+  abstract: 'a random walking parallel model checker for the murphi model checking langauge, bassed off of rumur's langauge parsing library and optimised for fast datat race free multithreaded random walking'
 

@@ -84,7 +84,7 @@ archer:
 
 
 romp:
-  title: romp\: a random walking parallel model checker
+  title: romp a random walking parallel model checker
   author: Andrew Osterhout et al
   url: https://github.com/civiv-fv/romp
   repo: https://github.com/civiv-fv/romp
